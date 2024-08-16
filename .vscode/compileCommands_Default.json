@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\nicks\\Documents\\_Project Folders\\Unreal Projects\\UE 5.4.3 Projects\\GMTK JAM\\GMTK-Jam\\Source\\GMTKJam\\GMTKJam.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nicks\\Documents\\_Project Folders\\Unreal Projects\\UE 5.4.3 Projects\\GMTK JAM\\GMTK-Jam\\.vscode\\compileCommands_Default\\GMTKJam.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nicks\\Documents\\_Project Folders\\Unreal Projects\\UE 5.4.3 Projects\\GMTK JAM\\GMTK-Jam\\Source\\GMTKJam\\GMTKJam.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nicks\\Documents\\_Project Folders\\Unreal Projects\\UE 5.4.3 Projects\\GMTK JAM\\GMTK-Jam\\.vscode\\compileCommands_Default\\GMTKJam.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nicks\\Documents\\_Project Folders\\Unreal Projects\\UE 5.4.3 Projects\\GMTK JAM\\GMTK-Jam\\Source\\GMTKJam\\GMTKJam.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nicks\\Documents\\_Project Folders\\Unreal Projects\\UE 5.4.3 Projects\\GMTK JAM\\GMTK-Jam\\.vscode\\compileCommands_Default\\GMTKJam.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nicks\\Documents\\_Project Folders\\Unreal Projects\\UE 5.4.3 Projects\\GMTK JAM\\GMTK-Jam\\Source\\GMTKJam\\Init.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nicks\\Documents\\_Project Folders\\Unreal Projects\\UE 5.4.3 Projects\\GMTK JAM\\GMTK-Jam\\.vscode\\compileCommands_Default\\GMTKJam.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nicks\\Documents\\_Project Folders\\Unreal Projects\\UE 5.4.3 Projects\\GMTK JAM\\GMTK-Jam\\Source\\GMTKJam\\Init.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nicks\\Documents\\_Project Folders\\Unreal Projects\\UE 5.4.3 Projects\\GMTK JAM\\GMTK-Jam\\.vscode\\compileCommands_Default\\GMTKJam.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
